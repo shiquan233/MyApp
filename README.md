@@ -1,5 +1,4 @@
-#tip
-this is my 毕设 to 2023 year
+#tip这是我的毕业设计，2023年
 
 
 # my-app
